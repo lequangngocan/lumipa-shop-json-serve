@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Chỉnh sửa slide</title>
+
+<meta name="robots" content="noindex, nofollow" />
+
+<link rel="shortcut icon" href="images/icon.png" type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" href="crown/css/main.css" />
+<link rel="stylesheet" type="text/css" href="css/css.css" media="screen" />
+<script type="text/javascript" src="ckeditor_4.13.0_standard/ckeditor/ckeditor.js"></script> 
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/additional-methods.min.js"></script>
+
+
+</head>
+
+<body>
+	
+	<!-- Left side content -->
+	<div id="left_content">
+		<div id="leftSide" style="padding-top:30px;">
+		
+		    <!-- Account panel -->
+			
+<div class="sideProfile">
+	<a href="#" title="" class="profileFace"><img width="40" src="images/user.png" /></a>
+	<span>Xin chào: <strong> admin
+							<span style="text-transform:uppercase">Lê Quang Ngọc An!</strong></span>
+	
+	<div class="clear"></div>
+</div>
+<div class="sidebarSep"></div>		    
+		    <!-- Left navigation -->
+			
+<ul id="menu" class="nav">
+
+			<li class="home">
+		
+			<a href="home.html">
+				<span>Bảng điều khiển</span>
+				<strong></strong>
+			</a>
+			
+						
+		</li>
+			<li class="product">
+		
+			<a href="danhmuc.html">
+				<span>Quản lý danh mục </span>
+			</a>
+						
+		</li>
+		<li class="product">
+		
+			<a href="sanpham.html">
+				<span>Quản lý sản phẩm</span>
+			</a>
+						
+		</li>
+			<li class="account">
+		
+			<a href="taikhoan.html"  >
+				<span>Quản lý tài khoản</span>
+				
+			</a>
+						
+		</li>
+		<li class="product">
+		
+			<a href="tintuc.html"  >
+				<span>Quản lý tin tức</span>
+				
+			</a>
+						
+		</li>
+		<li class="content">
+		
+			<a href="binhluan.html" >
+				<span>Quản lý bình luận</span>
+			</a>
+		</li>
+		<li class="content">
+		
+			<a href="donhang.html" >
+				<span>Quản lý đơn hàng</span>
+			</a>
+		</li>
+			<li class="content">
+		
+			<a href="slide.html"   class="active" id="current">
+				<span>Quản lý slide</span>
+			</a>
+		</li>
+		<li class="content">
+			
+				<a href="quangcao.html" >
+					<span>Quản lý quảng cáo</span>
+				</a>
+		</li>
+		<li class="content">
+			
+				<a href="lienhe.html" >
+					<span>Quản lý liên hệ</span>
+				</a>
+		</li>
+		<li class="content">
+			
+				<a href="setting.html" >
+					<span>Quản lý setting</span>
+				</a>
+		</li>
+</ul>
+			
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	
+	<!-- Right side -->
+	<div id="rightSide">
+	
+	    <!-- Account panel top -->
+		
+<div class="topNav">
+	<div class="wrapper">
+		
+		<div class="userNav">
+			<ul>
+				<li><a href="../index.php" target="_blank">
+					<img style="margin-top:7px;" src="images/icons/light/home.png" />
+					<span>Trang chủ</span>
+				</a></li>
+				
+				<!-- Logout -->
+				
+				
+			</ul>
+		</div>
+		
+		<div class="clear"></div>
+	</div>
+</div>
+		
+	    <!-- Main content -->
+		
+<!-- Title area -->
+<div class="titleArea">
+	<div class="wrapper">
+		<div class="pageTitle">
+			<h5>Slide</h5>
+			<span>Trang thêm mới slide</span>
+		</div>
+		<div class="horControlB menu_action">
+			<ul>
+				<li><a href="slide.html">
+					<img src="images/icons/control/16/list.png" />
+					<span>Danh sách</span>
+				</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<div class="line"></div>
+<!-- Message -->
+<!-- Main content wrapper -->
+<!-- Main content wrapper -->
+<!-- Main content wrapper -->
+<div class="wrapper" id="main_product">
+	<form class="form" action="">
+			<fieldset>
+				<div class="widget">
+				    <div class="title">
+						<img src="images/icons/dark/add.png" class="titleIcon" />
+						<h6>Chỉnh sửa slide</h6>
+					</div>
+					
+				    <ul class="tabs">
+		                <li><a href="#tab1">Thông tin chung</a></li>   
+					</ul>
+					
+					<div class="tab_container">
+						<div id='tab1' class="tab_content pd0">
+							<div class="formRow">
+								<label class="formLeft" for="param_warranty">
+									Mô tả :
+								</label>
+							<div class="formRight">
+								<textarea id="mota" name="mota"></textarea>
+								<script>CKEDITOR.replace('mota');</script>
+								<span name="warranty_autocheck" class="autocheck"></span>
+								<div name="warranty_error" class="clear error"></div>
+							</div>
+							<div class="clear"></div>
+						</div>
+		        		</div>
+		        		<div id='tab2' class="tab_content pd0">
+							<div class="formRow">
+								<label class="formLeft" >Ảnh sản phẩm:<span class="req">*</span></label>
+								<div class="formRight">
+									<span class="oneTwo">
+										<div id="inAnh" style="clear: both;">
+										</div><br>
+										<input name="slide" type="file" /></span><br>
+										<input type="hidden" name="giuanh">
+								<div class="clear"></div>
+								<span id="slide_error" style="color: red"></span>
+							</div>
+							</div>
+		        		</div>
+		        		<!-- End tab_container-->
+		        		<div class="formSubmit" style="clear: both;float: left;">
+		           			<button class="redB" onclick="saveUpdate()" type="button">Thay đổi</button>
+		           		</div>
+		        		<div class="clear"></div>
+					</div>
+			</fieldset>
+	</form>
+	
+</div>		<div class="clear mt30"></div>
+		
+	    <!-- Footer -->
+	    <div id="footer">
+	    		        <div class="wrapper">
+
+	        	<div>Bản quyền © 2019 Lê Quang Ngọc An</div>
+	        </div>
+	     </div>
+	</div>
+	<div class="clear"></div>
+	<script type="text/javascript">
+		// Lấy id slide
+		function GetURLParameter(value) {
+		    var url = window.location.search.substring(1);
+		    var url_new = url.split('&');
+		    for (var i = 0; i < url_new.length; i++) {
+		        var url_new2 = url_new[i].split('=');
+		        if (url_new2[0] == value) {
+		            return url_new2[1];
+		        }
+		    }
+		}
+		var id = GetURLParameter("idslide");
+		console.log(id);
+		var url_sua = 'http://localhost:3000/slide/' + id;
+		fetch(url_sua, {
+			method: "GET" // dùng phương thức get để lấy thông tin
+            }).then(function(res) {
+                return res.json(); // chuyển chuỗi nhận được thành đối tượng json
+            }).then(function(data) {
+                // các lệnh xử lý cho dữ liệu ở đây: các công việc hiển thị.
+                console.log(data);
+                // thực hiện gắn dữ liệu lên form
+                CKEDITOR.instances['mota'].setData(data.mota);
+                document.querySelector("#inAnh").innerHTML = '<img src="../frontend/images/slider/'+data.image+'" width="200px">';
+                document.querySelector("input[name=giuanh]").value = data.image;
+                console.log(data.image);
+			})
+			function saveUpdate(){
+			var mota = CKEDITOR.instances['mota'].getData();
+			console.log(mota);
+			var slide = $('input[type=file]').val().split('\\').pop();
+	       		if(slide == ""){
+	       			slide = document.querySelector("input[name=giuanh]").value;
+	       		}
+			var dataPost = {
+	                mota: mota,
+	                image: slide,
+	                trangthai: 0
+	            };
+	        fetch(url_sua, {
+	                    method: 'PATCH', 
+	                    headers: {
+	                        'Content-Type': 'application/json',
+	                    },
+	                    body: JSON.stringify(dataPost), 
+	                })
+	                .then((response) => response.json())
+	                .then((data) => {
+	                    alert("Sửa slide thành công")
+	                    window.location.href="slide.html";
+	        })
+	    }
+	</script>
+</body>
+</html>

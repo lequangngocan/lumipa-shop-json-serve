@@ -1,0 +1,463 @@
+{
+  "danhmuc": [
+    {
+      "tendm": "Tivi",
+      "id": 1
+    },
+    {
+      "tendm": "Air conditioning",
+      "id": 2
+    },
+    {
+      "tendm": "Smartphone",
+      "id": 3
+    },
+    {
+      "tendm": "Laptop",
+      "id": 4
+    }
+  ],
+  "sanpham": [
+    {
+      "tensp": "Smart TV QLED Samsung 4K 43 inch QA43Q65R",
+      "gia": "17590000",
+      "giakm": "13900000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Modern design, small screen size 43 inches.</li>\n\t<li>The resolution&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/200398/samsung-qa43q65r-7.jpg\" target=\"_blank\">4K</a>&nbsp;&nbsp;sharp.</li>\n\t<li>Bright, natural colors come from screen technology&nbsp;&nbsp;QLED&nbsp;<a href=\"https://www.youtube.com/embed/nwzNTrsfRjg\" target=\"_blank\">quantum dots</a>&nbsp;.</li>\n\t<li>Optimize the contrast between frames thanks to Quantum HDR technology 4x.</li>\n\t<li>Optimize and upgrade image sharpness, automatically adjust light and sound thanks to Quantum 4K processor.</li>\n\t<li>Wider viewing angle with technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/200398/samsung-qa43q65r-9.jpg\">Wide Viewing Angle</a>&nbsp;.</li>\n\t<li>Operating system&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/200398/Slider/vi-vn-8.jpg\">Tizen OS has</a>&nbsp;many rich applications, One remote control, flexible information search.</li>\n\t<li>Support TV control by phone via the SmartThings application.</li>\n\t<li>Project your phone screen on TV conveniently by Screen Mirroring, Airplay 2.</li>\n</ul>\n",
+      "image": "1.jpg",
+      "soluong": "120",
+      "thoigian": "2020-04-30T01:54:18.963Z",
+      "view": 23,
+      "banra": 94,
+      "iddm": "1",
+      "id": 17
+    },
+    {
+      "tensp": "Smart Tivi LG 4K 55 inch 55UM7400PTA",
+      "gia": "19990000",
+      "giakm": "12790000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Modern design, screen size 55 inches.</li>\n\t<li>The resolution&nbsp;<a href=\"https://www.youtube.com/embed/GPBKru88gKY\" target=\"_blank\">4K</a>&nbsp;&nbsp;for ultra sharp images.</li>\n\t<li>Brilliant colors with True Color Accuracy technology.</li>\n\t<li>Technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/165116/lg-55uk6100pta-222.jpg\" target=\"_blank\">4K Upscaler</a>&nbsp;&nbsp;upgrade image quality.</li>\n\t<li>DTS Virtual: X audio technology for immersive surround sound.</li>\n\t<li>Display&nbsp;&nbsp;Easy to use&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/203370/lg-55um7400pta-7.jpg\" target=\"_blank\">WebOS</a>&nbsp;4.5, rich application store, smart remote support&nbsp;<a href=\"https://www.youtube.com/embed/16j5jE5bP18\" target=\"_blank\">Voice search in Vietnamese in</a>&nbsp;&nbsp;all 3 regions.</li>\n\t<li>Use flexible TV with AI ThinQ artificial intelligence.</li>\n\t<li>Control TV by phone via application&nbsp;<a href=\"https://www.youtube.com/embed/VnsHPHiGvtU\" target=\"_blank\">LG TV Plus</a>&nbsp;&nbsp;fast.</li>\n\t<li>Support&nbsp;<a href=\"https://www.youtube.com/embed/ggHPIfk_URs\" target=\"_blank\">project your phone screen on TV</a>&nbsp;&nbsp;with Screen Mirroring and AirPlay 2.</li>\n</ul>\n",
+      "image": "2.jpg",
+      "soluong": "67",
+      "thoigian": "2020-04-30T01:59:20.998Z",
+      "view": 33,
+      "banra": 11,
+      "iddm": "1",
+      "id": 18
+    },
+    {
+      "tensp": "Smart Tivi TCL 4K 43 inch L43P65-UF",
+      "gia": "7990000",
+      "giakm": "6540000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Simple design, luxurious black, 43 inch size suitable for small living rooms, bedrooms.</li>\n\t<li>Rich application store with operating system&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/199873/tivi-tcl-l43p65-uf-6.jpg\" target=\"_blank\">TV + OS</a>&nbsp;.</li>\n\t<li>The resolution&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/199873/tcl-l43p65-uf-5.jpg\" target=\"_blank\">4K is</a>&nbsp;extremely sharp on the 43 inch screen.</li>\n\t<li>Images are optimized contrast with technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/199873/tcl-l43p65-uf-4.jpg\" target=\"_blank\">HDR</a>&nbsp;.</li>\n\t<li>Images are true and brighter thanks to technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/199873/tcl-l43p65-uf-3.jpg\" target=\"_blank\">Micro Dimming</a>&nbsp;.</li>\n\t<li>For unique surround sound effects with sound technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/199873/tivi-tcl-l43p65-uf-5.jpg\" target=\"_blank\">Dolby MS12</a>&nbsp;.</li>\n\t<li>Control your TV with your phone via T-Cast.</li>\n</ul>\n",
+      "image": "3.jpg",
+      "soluong": "220",
+      "thoigian": "2020-04-30T02:02:40.950Z",
+      "view": 34,
+      "banra": 330,
+      "iddm": "1",
+      "id": 19
+    },
+    {
+      "tensp": "Smart Tivi QLED Samsung 4K 55 inch QA55Q65R",
+      "gia": "21150000",
+      "giakm": "20900000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Modern design design, minimalist style.</li>\n\t<li>The resolution&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/200405/samsung-qa55q65r-8.jpg\" target=\"_blank\">4K</a>&nbsp;&nbsp;very sharp.</li>\n\t<li>Display vibrant colors, a wider range of colors with screen technology&nbsp;<a href=\"https://www.youtube.com/embed/nwzNTrsfRjg\" target=\"_blank\">quantum dots</a>&nbsp;QLED&nbsp;.</li>\n\t<li>Regenerate dark areas, bright areas brighter through technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/200413/samsung-qa82q65r-25.jpg\" target=\"_blank\">Direct Full Array</a>&nbsp;.</li>\n\t<li>Technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/200413/samsung-qa82q65r-23.jpg\" target=\"_blank\">Quantum HDR 4x</a>&nbsp;modern for high contrast.</li>\n\t<li>Upscale the image to near 4K thanks to the processor&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/200413/samsung-qa82q65r-24.jpg\" target=\"_blank\">Quantum 4K Processor</a>&nbsp;.</li>\n\t<li>Technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/200405/samsung-qa55q65r-10.jpg\" target=\"_blank\">Wide Viewing Angle</a>&nbsp;for clear, consistent images at any angle.</li>\n\t<li>Operating system&nbsp;<a href=\"https://www.youtube.com/embed/cAwRpgxPjeQ\" target=\"_blank\">Tizen OS</a>&nbsp;easy to use, many utilities to support, comes<a href=\"https://www.youtube.com/embed/n_BgsmEmrbo\" target=\"_blank\">One remote</a>&nbsp;smart&nbsp;.</li>\n\t<li>Support TV control by phone via the application&nbsp;<a href=\"https://www.youtube.com/embed/Y6cZzFHsFdc\" target=\"_blank\">SmartThings</a>&nbsp;.</li>\n\t<li>Project your phone screen on the TV quickly with the feature&nbsp;<a href=\"https://www.youtube.com/embed/ggHPIfk_URs\" target=\"_blank\">Screen Mirroring</a>&nbsp;, AirPlay 2.</li>\n</ul>\n",
+      "image": "4.jpg",
+      "soluong": "450",
+      "thoigian": "2020-04-30T02:03:50.536Z",
+      "view": 302,
+      "banra": 5,
+      "iddm": "1",
+      "id": 20
+    },
+    {
+      "tensp": "Smart Tivi LG 4K 49 inch 49UM7400PTA",
+      "gia": "10300000",
+      "giakm": "10050000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Modern design, screen size 49 inches.</li>\n\t<li>The resolution&nbsp;<a href=\"https://www.youtube.com/embed/GPBKru88gKY\" target=\"_blank\">4K</a>&nbsp;&nbsp;is 4 times sharper than Full HD.</li>\n\t<li>True Color Accuracy technology provides a wide color range.</li>\n\t<li>Upgrade image quality with technology&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/165116/lg-55uk6100pta-222.jpg\" target=\"_blank\">4K Upscaler</a>&nbsp;.</li>\n\t<li>DTS Virtual: X audio technology for immersive surround sound.</li>\n\t<li>Display&nbsp;&nbsp;Easy to use&nbsp;<a href=\"https://cdn.tgdd.vn/Products/Images/1942/203369/lg-49um7400pta-8.jpg\" target=\"_blank\">WebOS</a>&nbsp;4.5, rich application store, smart remote support&nbsp;<a href=\"https://www.youtube.com/embed/16j5jE5bP18\" target=\"_blank\">Voice search in Vietnamese</a>&nbsp;&nbsp;all 3 regions.</li>\n\t<li>Experience more convenient TV with artificial intelligence Al ThinQ.</li>\n\t<li>Support TV control by phone via the application&nbsp;<a href=\"https://www.youtube.com/embed/VnsHPHiGvtU\" target=\"_blank\">LG TV Plus</a>&nbsp;.</li>\n\t<li><a href=\"https://www.youtube.com/embed/ggHPIfk_URs\" target=\"_blank\">Project your phone screen on TV</a>&nbsp;&nbsp;easily with Screen Mirroring and AirPlay 2.</li>\n</ul>\n",
+      "image": "5.jpg",
+      "soluong": "65",
+      "thoigian": "2020-04-30T02:05:39.201Z",
+      "view": 102,
+      "banra": 1,
+      "iddm": "1",
+      "id": 21
+    },
+    {
+      "tensp": "Sharp Inverter 1 HP AH-X9XEW",
+      "gia": "7990000",
+      "giakm": "7690000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Modern J-Tech Inverter technology saves energy.</li>\n\t<li>Rapid cooling with Powerful Jet rapid cooling technology.</li>\n\t<li>Polypropylene dust net provides fresh air.</li>\n\t<li>Convenient timer function, turn off the air conditioner.</li>\n\t<li>Auto restart when power is on.</li>\n\t<li>Comfortable wind blowing mode.</li>\n</ul>\n",
+      "image": "6.jpg",
+      "soluong": "644",
+      "thoigian": "2020-04-30T02:12:08.340Z",
+      "view": 77,
+      "banra": 92,
+      "iddm": "2",
+      "id": 22
+    },
+    {
+      "tensp": "Panasonic Inverter 1 HP CU/CS-XU9UKH-8",
+      "gia": "15190000",
+      "giakm": "12490000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Technology&nbsp;<a href=\"https://www.youtube.com/embed/_gC8G2l9gjA\" target=\"_blank\">Inverter</a>&nbsp;- saving electricity, operating smoothly, cooling deeply and spreading cold slightly.</li>\n\t<li>Instant cooling with mode&nbsp;<a href=\"https://www.youtube.com/embed/aG9-aPv2kTM\" target=\"_blank\">iAuto-X</a>&nbsp;.</li>\n\t<li>Current&nbsp;<a href=\"https://www.youtube.com/embed/eOqs1LQXbpc\" target=\"_blank\">Aerowings</a>&nbsp;- 2 flaps with 2 separate motors for better airflow control.</li>\n\t<li>Technology&nbsp;<a href=\"https://www.youtube.com/embed/n96mN7SA3lA\" target=\"_blank\">Nanoe-G</a>&nbsp;- filter fresh air and clean dust.</li>\n\t<li>Antibacterial, deodorizing unpleasant odors with technology&nbsp;<a href=\"https://www.youtube.com/embed/4UmecV7c55Y\" target=\"_blank\">Nanoe-X</a>&nbsp;.</li>\n\t<li>Use an independent air filtration system as an air purifier.</li>\n\t<li>Protect health and save electricity for the whole family with sleep mode at night.</li>\n\t<li><a href=\"https://cdn.tgdd.vn/Products/Images/2002/153825/Slider/vi-vn-gasr32.jpg\" target=\"_blank\">Gas R32</a>&nbsp;safe, environmentally friendly.</li>\n</ul>\n",
+      "image": "7.jpg",
+      "soluong": "419",
+      "thoigian": "2020-04-30T02:25:38.780Z",
+      "view": 19,
+      "banra": 10,
+      "iddm": "2",
+      "id": 23
+    },
+    {
+      "tensp": "Panasonic Inverter 1.5 HP CU / CS-PU12WKH-8M Air Conditioner",
+      "gia": "12990000",
+      "giakm": "10490000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Technology&nbsp;<a href=\"https://www.youtube.com/embed/_gC8G2l9gjA\" target=\"_blank\">Inverter</a>&nbsp;&nbsp;and Eco integrated AI help maximum power savings, stable cooling.</li>\n\t<li>Proprietary air purification technology&nbsp;<a href=\"https://www.youtube.com/embed/n96mN7SA3lA\" target=\"_blank\">Nanoe-G</a>&nbsp;&nbsp;for a cleaner and fresher atmosphere.</li>\n\t<li>Use an independent air filtration system as a true air purifier.</li>\n\t<li>Powerful fast cooling mode.</li>\n\t<li>Dehumidification mode keeps the room dry and cool when the humidity rises.</li>\n\t<li>More convenient with on / off timer.</li>\n</ul>\n",
+      "image": "8.jpg",
+      "soluong": "423",
+      "thoigian": "2020-04-30T03:17:20.122Z",
+      "view": 22,
+      "banra": 33,
+      "iddm": "2",
+      "id": 24
+    },
+    {
+      "tensp": "Daikin Air Conditioning Inverter 1.0 HP ATKC25UAVMV",
+      "gia": "14090000",
+      "giakm": "11890000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Power saving, stable cooling with technology&nbsp;<a href=\"https://www.youtube.com/embed/_gC8G2l9gjA\" target=\"_blank\">Inverter</a>&nbsp;.</li>\n\t<li>Provides an almost instant cooling sensation when the Powerful mode is activated.</li>\n\t<li>Saving electricity but still effective cooling&nbsp;<a href=\"https://www.youtube.com/embed/cUgY0qyuG5o\" target=\"_blank\">Intelligent eye sensor</a>&nbsp;.</li>\n\t<li>Improve efficiency to save electricity thanks to Econo mode - One user.</li>\n\t<li>Gas R-32 fast cooling, environmentally friendly.</li>\n\t<li>Regime&nbsp;<a href=\"https://www.youtube.com/embed/n170S8Xz9eo\" target=\"_blank\">blowing air to the ceiling</a>&nbsp;, creating a pleasant cool feeling.</li>\n\t<li>Brings a clean, clean environment with Titanium Apatite photocatalyst filter.</li>\n\t<li>Remove mold moisture, unpleasant smell with mold-proof feature.</li>\n\t<li>Automatic restart feature when power is on - Remember the existing modes, no need to reinstall.</li>\n</ul>\n",
+      "image": "9.jpg",
+      "soluong": "88",
+      "thoigian": "2020-04-30T03:26:17.585Z",
+      "view": 46,
+      "banra": 3,
+      "iddm": "2",
+      "id": 25
+    },
+    {
+      "tensp": "Midea Inverter Air Conditioner 1 HP MSAFA-10CRDN8",
+      "gia": "6690000",
+      "giakm": "6490000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<ul>\n\t<li>Power saving, smooth operation with Inverter technology.</li>\n\t<li>Feeling cool quickly with Turbo cooling mode.</li>\n\t<li>The room is cool and dry when the humidity increases with the function of dehumidification.</li>\n\t<li>Convenient 2-way drain hose during installation.</li>\n\t<li>Convenient during use with the timer function.</li>\n\t<li>Use as a blower with Fan only mode.</li>\n\t<li>Durable&nbsp;<a href=\"https://www.youtube.com/embed/SmPNFpBggMM\" target=\"_blank\">gold-plated</a>&nbsp;anti-corrosion&nbsp;<a href=\"https://www.youtube.com/embed/SmPNFpBggMM\" target=\"_blank\">radiator</a>&nbsp;.</li>\n</ul>\n",
+      "image": "10.jpg",
+      "soluong": "544",
+      "thoigian": "2020-04-30T03:29:29.296Z",
+      "view": 67,
+      "banra": 7,
+      "iddm": "2",
+      "id": 26
+    },
+    {
+      "tensp": "Iphone 11 64Gb",
+      "gia": "23990000",
+      "giakm": "11990000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3>After the iPhone Xr with good sales that have made a lot of noise,&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai-apple-iphone\" target=\"_blank\">Apple</a>&nbsp;continues to launch a super product 2019 named&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai/iphone-11\" target=\"_blank\">iPhone 11 64GB</a>&nbsp;&nbsp;- a&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai\" target=\"_blank\">smartphone</a>&nbsp;fully upgraded from high-end design, powerful processor. to a quality camera system and outstanding battery life.</h3>\n\n<h3>Performance topped the smartphone table</h3>\n\n<p>The phone is powered by a&nbsp;powerful&nbsp;<a href=\"https://www.dienmayxanh.com/kinh-nghiem-hay/chi-tiet-ve-vi-xu-ly-apple-a13-bionic-moi-nhat-duo-1197314\" target=\"_blank\">Apple A13 Bionic</a>&nbsp;processor&nbsp;, which is assembled on 7 nm process, providing strong performance and high power savings compared to its predecessor.</p>\n\n<p>With the A13 processor, Apple continues to assert its No. 1 position in the current smartphone market.</p>\n\n<p>Comes with the machine is a RAM capacity of 4 GB and 64 GB ROM helps the machine have completely outstanding performance.&nbsp;Playing games or handling heavy tasks can handle smoothly, without lag.</p>\n\n<p>iPhone 11 comes preloaded with the latest iOS 13 operating system, which helps to optimize better and drastically improve improvements to bring an extremely enjoyable experience for users.&nbsp;All processing operations on the screen are processed quickly, almost you can not see the delay in using the machine.</p>\n",
+      "image": "11.jpg",
+      "soluong": "765",
+      "thoigian": "2020-04-30T03:36:53.465Z",
+      "view": 80,
+      "banra": 2,
+      "iddm": "3",
+      "id": 27
+    },
+    {
+      "tensp": "Samsung Galaxy A31 phone",
+      "gia": "6990000",
+      "giakm": "6490000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3><a href=\"https://www.dienmayxanh.com/dien-thoai/samsung-galaxy-a31\" target=\"_blank\">Samsung galaxy A31</a>&nbsp;&nbsp;is a mid-&nbsp;range&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai\" target=\"_blank\">phone</a>&nbsp;but it has many of the same technologies as the high-end flagship line, such as: a hole-cut design, a good camera system, a powerful battery and a powerful configuration. .</h3>\n\n<h3>Stylish overflow design, luxurious</h3>\n\n<p>The Samsung A31 screen is equipped with a 6.4-inch Infinity-O screen that fills the front with Super AMOLED panels to provide a great visual experience when watching movies, surfing the web, playing games everyday.</p>\n\n<p>Despite owning a large screen, but holding the device is very easy thanks to the edge of the screen is thin to the maximum to complete an extremely meticulous and elaborate with smooth rounded corners.</p>\n\n<p>Besides, the edge of the Galaxy A31 screen is curved 3D to help the glass become glossy, smooth and smooth to&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai?f=bao-mat-van-tay\" target=\"_blank\">touch</a>&nbsp;,&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai?f=bao-mat-van-tay\" target=\"_blank\">the</a>&nbsp;optical&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai?f=bao-mat-van-tay\" target=\"_blank\">fingerprint sensor</a>&nbsp;built into the screen makes unlocking extremely fast. Fast and convenient.</p>\n",
+      "image": "12.jpg",
+      "soluong": "887",
+      "thoigian": "2020-04-30T03:57:35.626Z",
+      "view": 57,
+      "banra": 3,
+      "iddm": "3",
+      "id": 28
+    },
+    {
+      "tensp": "OPPO A9 (2020) phone",
+      "gia": "7190000",
+      "giakm": "6990000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3><a href=\"https://www.dienmayxanh.com/dien-thoai/oppo-a9\" target=\"_blank\">OPPO A9</a>&nbsp;, the phone is considered the embodiment of beauty, the innovation that OPPO brings to users with stylish design and good quality camera clusters both front and back.</h3>\n\n<h3>Fashion design, attract young people</h3>\n\n<p><a href=\"https://www.dienmayxanh.com/dien-thoai-oppo\" target=\"_blank\">OPPO</a>&nbsp;smartphones&nbsp;have always brought a lot of new points in design style and are loved by many young people.</p>\n\n<p>OPPO A9 uses an &quot;ergonomics&quot; design with 3D curved edges hugging the chassis to provide a comfortable grip experience for the user.</p>\n\n<p>Inspired by nature, OPPO A9 smartphone is easier to attract users.</p>\n\n<p>It has a large 6.53-inch screen stylized by a waterdrop-shaped rabbit ear that looks extremely delicate.</p>\n\n<p>OPPO has minimized the surrounding bezels to give a display-to-body ratio of 90.70%.</p>\n",
+      "image": "13.jpg",
+      "soluong": "565",
+      "thoigian": "2020-04-30T04:00:57.418Z",
+      "view": 56,
+      "banra": 2,
+      "iddm": "3",
+      "id": 29
+    },
+    {
+      "tensp": "Vsmart Joy 3 phone (3GB / 32GB)",
+      "gia": "2990000",
+      "giakm": "2690000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3><a href=\"https://www.dienmayxanh.com/dien-thoai/vsmart-joy-3\" target=\"_blank\">Vsmart Joy 3</a>&nbsp;&nbsp;is a phone in the cheap segment but still possesses modern features.&nbsp;The water droplet screen maximizes the display space, the huge battery capacity and the cluster of 3 professional photography cameras are the outstanding features of Vsmart Joy 3.</h3>\n\n<h3>Cluster of 3 multi-function AI cameras</h3>\n\n<p><a href=\"https://www.dienmayxanh.com/dien-thoai-vsmart\" target=\"_blank\">Vsmart is</a>&nbsp;quite focused on the camera part with 3 cameras.&nbsp;13 MP main camera,&nbsp;8 MP&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai-camera-goc-rong\" target=\"_blank\">wide-angle</a>&nbsp;camera,&nbsp;2 MP&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai-camera-xoa-phong\" target=\"_blank\">background erasing</a>&nbsp;camera&nbsp;.</p>\n\n<p>The camera captures every moment with professional shooting features such as background erasing, wide-angle, night shooting, HDR, etc.</p>\n\n<p>The 8 MP front camera features automatic beauty, removing virtual fonts for you beautiful selfies without adjusting the application.</p>\n\n<h3>Outstanding design and trendy</h3>\n\n<p>The back is sleek design, capable of changing colors depending on the angle of light.&nbsp;The slightly angled camera angles make it easier to hold, creating a more refined feel for Vsmart Joy 3.</p>\n",
+      "image": "14.jpg",
+      "soluong": "4567",
+      "thoigian": "2020-04-30T04:04:08.734Z",
+      "view": 67,
+      "banra": 1,
+      "iddm": "3",
+      "id": 30
+    },
+    {
+      "tensp": "Realme C3 phone",
+      "gia": "3290000",
+      "giakm": "2990000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3>Following the configuration strategy and features superior to the price,&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai-realme\" target=\"_blank\">Realme</a>&nbsp;&nbsp;has officially launched the&nbsp;&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai/realme-c3\" target=\"_blank\">Realme C3</a>&nbsp;.&nbsp;The&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai\" target=\"_blank\">smartphone</a>&nbsp;&nbsp;has a good price, good gaming performance, 3 multi-camera clusters and a big screen.</h3>\n\n<h3>Screen water droplets follow the trend</h3>\n\n<p>Having a screen size of up to 6.5 inches but thanks&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai-man-hinh-giot-nuoc\" target=\"_blank\">to</a>&nbsp;the trendy&nbsp;<a href=\"https://www.dienmayxanh.com/dien-thoai-man-hinh-giot-nuoc\" target=\"_blank\">water drop design</a>&nbsp;, thin bezels and a new 20: 9 aspect ratio, the Realme C3 looks very compact and elegant.</p>\n\n<p>With a big screen, the experience of reading newspapers, watching movies or playing games on Realme C3 will be extremely interesting and comfortable.</p>\n\n<p>The back of Realme C3 is also cared for with beautiful concentric circles, creating special reflection effects when changing the viewing angle.&nbsp;High quality plastic material for a firm, smooth grip.</p>\n",
+      "image": "15.jpg",
+      "soluong": "765",
+      "thoigian": "2020-04-30T04:08:43.452Z",
+      "view": 34,
+      "banra": 1,
+      "iddm": "3",
+      "id": 31
+    },
+    {
+      "tensp": "Acer Aspire A315 34 C2H9 N4000 ",
+      "gia": "7290000",
+      "giakm": "6990000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3><a href=\"https://www.dienmayxanh.com/laptop/acer-aspire-a315-34-c2h9-n4000-4gb-256gb-win10-nx\" target=\"_blank\">Laptop Acer Aspire A315 34 C2H9 (NX.HE3SV.005)</a>&nbsp;belongs to&nbsp;the good-price&nbsp;<a href=\"http://www.dienmayxanh.com/laptop?g=hoc-tap-van-phong\" target=\"_blank\">office laptop</a>&nbsp;segment&nbsp;equipped with configuration to meet basic learning and entertainment needs and pre-installed with Windows 10 copyright for usability. More stable and efficient.</h3>\n\n<h3>Compact design, convenient</h3>\n\n<p><a href=\"https://www.dienmayxanh.com/laptop-acer-aspire\" target=\"_blank\">The Acer Aspire</a>&nbsp;A315 34 C2H9 (NX.HE3SV.005) has a weight of&nbsp;<strong>1.7 kg</strong>&nbsp;and a thickness of&nbsp;<strong>19.9 mm</strong>&nbsp;making it easy to carry the device anywhere, convenient for your study and work.</p>\n\n<h3>Stable configuration, enough to use</h3>\n\n<p>The Acer Aspire A315 34 is powered by an&nbsp;<strong>Intel Celeron processor</strong>&nbsp;and&nbsp;<a href=\"https://www.dienmayxanh.com/laptop?g=4-gb\" target=\"_blank\"><strong>4 GB RAM</strong></a>&nbsp;for smooth use of office applications as well as basic web and entertainment needs.</p>\n\n<p>Laptop has&nbsp;<strong>a battery life of 5-6 hours</strong>&nbsp;, you can comfortably work with basic office tasks such as writing documents, surfing the web, listening to music, ...</p>\n\n<p>In addition,&nbsp;<a href=\"http://www.dienmayxanh.com/laptop?f=o-cung-ssd\" target=\"_blank\">the</a>&nbsp;ultra-fast&nbsp;<a href=\"http://www.dienmayxanh.com/laptop?f=o-cung-ssd\" target=\"_blank\">SSD hard drive</a>&nbsp;with a capacity of&nbsp;<strong>256 GB is</strong>&nbsp;sufficient for your computer to perform boot-up operations, launch applications faster, save more time.</p>\n",
+      "image": "16.jpg",
+      "soluong": "543",
+      "thoigian": "2020-04-30T04:12:58.879Z",
+      "view": 44,
+      "banra": 2,
+      "iddm": "4",
+      "id": 32
+    },
+    {
+      "tensp": "Asus VivoBook X409JA i3 1005G1",
+      "gia": "12990000",
+      "giakm": "12390000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3><a href=\"https://www.dienmayxanh.com/laptop/asus-x409ja-i3-ek015t\" target=\"_blank\">Asus VivoBook X409JA i3 (EK015T)</a>&nbsp;&nbsp;compact&nbsp;<a href=\"https://www.dienmayxanh.com/laptop/asus-x409ja-i3-ek015t\" target=\"_blank\">laptop</a>&nbsp;suitable for students, students or office workers.&nbsp;With a powerful 10th-generation CPU, laptop configuration is enough for you to comfortably use office applications, surf the web, entertain every day.</h3>\n\n<h3>Lightweight, portable</h3>\n\n<p><a href=\"https://www.dienmayxanh.com/laptop-asus-vivobook\" target=\"_blank\">ASUS VivoBook</a>&nbsp;has a compact, elegant design with exquisite lines.&nbsp;The machine weighs&nbsp;<strong>1.5 kg</strong>&nbsp;for you to bring your laptop to school, work easily.</p>\n\n<h3>Configurable enough for learning, office work</h3>\n\n<p>10 Generation&nbsp;Intel&nbsp;<strong><a href=\"https://www.dienmayxanh.com/laptop?g=core-i3\" target=\"_blank\">Core i3 processor</a></strong>&nbsp;with&nbsp;<a href=\"https://www.dienmayxanh.com/laptop?g=4-gb\" target=\"_blank\"><strong>4 GB RAM</strong></a>&nbsp;for stable performance, smooth office use, web browsing and casual entertainment.</p>\n\n<p>See also:&nbsp;&nbsp;<a href=\"https://www.dienmayxanh.com/kinh-nghiem-hay/tim-hieu-ve-cpu-intel-gen-10-1214571\" target=\"_blank\">Understanding microprocessor generation 10</a></p>\n\n<p>With&nbsp;<strong>SSD&nbsp;<a href=\"https://www.dienmayxanh.com/laptop?g=ssd:-512gb#g:134630&amp;o:1\" target=\"_blank\">512 GB</a></strong>&nbsp;, you take less than 15 seconds to boot.&nbsp;512 GB capacity for comfortable storage.</p>\n",
+      "image": "17.jpg",
+      "soluong": "7654",
+      "thoigian": "2020-04-30T04:14:33.469Z",
+      "view": 34,
+      "banra": 1,
+      "iddm": "4",
+      "id": 33
+    },
+    {
+      "tensp": "Asus VivoBook X509FA i3",
+      "gia": "11990000",
+      "giakm": "11690000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3><a href=\"https://www.dienmayxanh.com/laptop/asus-vivobook-x509fa-i3-ej857t\" target=\"_blank\">Asus VivoBook X509FA Laptop (EJ857T)</a>&nbsp;with modern appearance, stable configuration, fast operation promises to successfully complete daily office and entertainment tasks.</h3>\n\n<h3>Strong performance for office people</h3>\n\n<p><a href=\"https://www.dienmayxanh.com/laptop\" target=\"_blank\">The</a>&nbsp;8th&nbsp;<a href=\"https://www.dienmayxanh.com/laptop?g=core-i3\" target=\"_blank\"><strong>Gen</strong></a>&nbsp;Intel&nbsp;<a href=\"https://www.dienmayxanh.com/laptop?g=core-i3\" target=\"_blank\"><strong>Core i3</strong></a><a href=\"https://www.dienmayxanh.com/laptop\" target=\"_blank\">&nbsp;laptop is</a>&nbsp;good for those who often use computers for office work, drafting contracts or bookkeeping, recess can watch movies, listen to relaxing music. .</p>\n\n<p>Comes with&nbsp;<strong><a href=\"https://www.dienmayxanh.com/laptop?g=4-gb\" target=\"_blank\">4 GB RAM</a></strong>&nbsp;smooth multitasking, simultaneously use 7-8 tabs work at the same time easier, no lag.</p>\n\n<p>Start up quickly, minimize waiting time for opening applications with a&nbsp;<a href=\"https://www.dienmayxanh.com/laptop?g=ssd:-512gb#g:134630&amp;o:1\" target=\"_blank\"><strong>512 GB SSD</strong></a>&nbsp;.&nbsp;Comfortable storage of document files, important data.</p>\n\n<p>If the purpose of your laptop is to store information, the&nbsp;<a href=\"https://www.dienmayxanh.com/laptop-asus-vivobook\" target=\"_blank\">Asus VivoBook</a>&nbsp;X509FA will help you upgrade when an HDD slot is available.</p>\n\n<p>The laptop has the common communication ports USB 2.0, HDMI, USB 3.0, USB Type-C and Micro SD card reader slot to help you easily connect the laptop to the presentation device, confidently express yourself.</p>\n",
+      "image": "18.jpg",
+      "soluong": "1221",
+      "thoigian": "2020-04-30T04:16:14.885Z",
+      "view": 646,
+      "banra": 455,
+      "iddm": "4",
+      "id": 34
+    },
+    {
+      "tensp": "Lenovo IdeaPad S145 15IIL",
+      "gia": "12190000",
+      "giakm": "11490000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3><a href=\"https://www.dienmayxanh.com/laptop/lenovo-ideapad-s145-15iil-i3-1005g1-4gb-256gb-win1\" target=\"_blank\">Lenovo IdeaPad S145 Laptop 15IIL i3 (81W8001XVN)</a>&nbsp;is an&nbsp;<a href=\"http://www.dienmayxanh.com/laptop?g=hoc-tap-van-phong\" target=\"_blank\">office studying laptop</a>&nbsp;with enough configuration, luxurious appearance, thin and light maneuver.&nbsp;The device is equipped with an SSD hard drive with a clear 15.6-inch Full HD screen.</h3>\n\n<h3>Configuration suitable for learning needs, office</h3>\n\n<p>With&nbsp;<strong>10-generation&nbsp;</strong><strong><a href=\"https://www.dienmayxanh.com/laptop?g=core-i3\" target=\"_blank\">Intel Core i3</a></strong>&nbsp;chip&nbsp;(released in late 2019),&nbsp;<strong><a href=\"https://www.dienmayxanh.com/laptop?g=4-gb\" target=\"_blank\">4 GB RAM</a></strong>&nbsp;, the configuration is not too strong but it is enough to run popular applications such as Word, Excel, ... watch movies on Youtube or listen to Smooth music.</p>\n\n<h3>SSD is super fast</h3>\n\n<p><a href=\"https://www.dienmayxanh.com/laptop\" target=\"_blank\">The laptop</a>&nbsp;uses a&nbsp;&nbsp;&nbsp;modern&nbsp;<a href=\"http://www.dienmayxanh.com/laptop?f=o-cung-ssd\" target=\"_blank\">SSD hard drive</a>&nbsp;, for impressive speed, booting the machine in&nbsp;<strong>less than 20 seconds</strong>&nbsp;.&nbsp;It also meets the needs of storing learning materials and tasks with a capacity of 256 GB enough.</p>\n\n<h3>Elegant design, luxury</h3>\n\n<p>With a classy gray shell, elegant lines and a weight of just&nbsp;<strong>1.79 kg</strong>&nbsp;,&nbsp;<a href=\"http://www.dienmayxanh.com/laptop-lenovo-ideapad\" target=\"_blank\">Lenovo IdeaPad</a>&nbsp;S145 is a modern, portable laptop.&nbsp;You can easily put it into backpacks, bags to carry daily to school or work.</p>\n",
+      "image": "19.jpg",
+      "soluong": "766",
+      "thoigian": "2020-04-30T04:17:26.677Z",
+      "view": 84,
+      "banra": 44,
+      "iddm": "4",
+      "id": 35
+    },
+    {
+      "tensp": "Lenovo IdeaPad S145 15IIL i5",
+      "gia": "15990000",
+      "giakm": "15290000",
+      "review": "The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.",
+      "chitiet": "<h3><a href=\"https://www.dienmayxanh.com/laptop/lenovo-ideapad-s145-15iil-i5-1035g1-8gb-512gb-win1\" target=\"_blank\">Lenovo IdeaPad S145 15IIL i5 (81W80021VN)</a>&nbsp;&nbsp;has a slim and trendy design, convenient for those who need to move as much as students, students, office workers.&nbsp;With the latest generation Intel Core i5 chip and SSD hard drive, laptop brings fast, high performance performance.</h3>\n\n<h3>Modern, slim design</h3>\n\n<p>It has a quite thin design compared to other&nbsp;<a href=\"https://www.dienmayxanh.com/laptop-tren-15-inch\" target=\"_blank\">15.6-inch laptops in the</a>&nbsp;same segment, weighing&nbsp;<strong>1.79 kg</strong>&nbsp;easy to carry your computer with you daily.&nbsp;The back is minimalist, only the company logo is placed on the left side for modern beauty and sophistication.</p>\n\n<h3>Office use and 2D graphics</h3>\n\n<p><a href=\"http://www.dienmayxanh.com/laptop-lenovo-ideapad\" target=\"_blank\">The Lenovo IdeaPad</a>&nbsp;S145 uses a&nbsp;<strong>10th-generation&nbsp;</strong><strong><a href=\"https://www.dienmayxanh.com/laptop?g=core-i5\" target=\"_blank\">Core i5</a></strong>&nbsp;chip&nbsp;launched in the second half of 2019, comes with&nbsp;<a href=\"https://www.dienmayxanh.com/laptop?g=8-gb\" target=\"_blank\"><strong>8 GB of RAM</strong></a>&nbsp;&nbsp;for stable multitasking, so you can listen to music, surf the web and work smoothly in Photoshop.</p>\n\n<h3>SSDs respond quickly</h3>\n\n<p>Laptop equipped with&nbsp;&nbsp;<strong>512GB SSD hard drive&nbsp;</strong>&nbsp;for fast processing speed, users only need about 20 seconds to boot the machine.&nbsp;512 GB storage allows you to store documents, movies, software ...</p>\n",
+      "image": "20.jpg",
+      "soluong": "433",
+      "thoigian": "2020-04-30T04:19:02.857Z",
+      "view": 89,
+      "banra": 9,
+      "iddm": "4",
+      "id": 36
+    }
+  ],
+  "taikhoan": [
+    {
+      "id": 1,
+      "tentk": "anlqn",
+      "matkhau": "17102015",
+      "vaitro": 0,
+      "hoten": "Lê Quang Ngọc An",
+      "image": "a.jpg",
+      "diachi": "Hà Nội",
+      "email": "lequangngocan@gmail.com",
+      "sdt": "0387210034"
+    }
+  ],
+  "tintuc": [
+    {
+      "tieude": "Blog Image Post",
+      "image": "2.jpg",
+      "chitiet": "<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>\n\n<blockquote>\n<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur. In venenatis elit ac ultrices convallis. Duis est nisi, tincidunt ac urna sed, cursus blandit lectus. In ullamcorper sit amet ligula ut eleifend. Proin dictum tempor ligula, ac feugiat metus. Sed finibus tortor eu scelerisque scelerisque.</p>\n</blockquote>\n\n<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum</p>\n",
+      "thoigian": "2020-04-29T18:34:19.293Z",
+      "iduser": 1,
+      "id": 2
+    },
+    {
+      "tieude": "Blog Gallery Post",
+      "image": "5.jpg",
+      "chitiet": "<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>\n\n<blockquote>\n<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur. In venenatis elit ac ultrices convallis. Duis est nisi, tincidunt ac urna sed, cursus blandit lectus. In ullamcorper sit amet ligula ut eleifend. Proin dictum tempor ligula, ac feugiat metus. Sed finibus tortor eu scelerisque scelerisque.</p>\n</blockquote>\n\n<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum</p>\n",
+      "thoigian": "2020-04-29T18:38:58.097Z",
+      "iduser": 1,
+      "id": 3
+    },
+    {
+      "tieude": "Blog Audio Post",
+      "image": "6.jpg",
+      "chitiet": "<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>\n\n<blockquote>\n<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur. In venenatis elit ac ultrices convallis. Duis est nisi, tincidunt ac urna sed, cursus blandit lectus. In ullamcorper sit amet ligula ut eleifend. Proin dictum tempor ligula, ac feugiat metus. Sed finibus tortor eu scelerisque scelerisque.</p>\n</blockquote>\n\n<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum</p>\n",
+      "thoigian": "2020-04-29T18:39:36.758Z",
+      "iduser": 1,
+      "id": 4
+    },
+    {
+      "tieude": "Blog Video Post",
+      "image": "1.jpg",
+      "chitiet": "<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>\n\n<blockquote>\n<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur. In venenatis elit ac ultrices convallis. Duis est nisi, tincidunt ac urna sed, cursus blandit lectus. In ullamcorper sit amet ligula ut eleifend. Proin dictum tempor ligula, ac feugiat metus. Sed finibus tortor eu scelerisque scelerisque.</p>\n</blockquote>\n\n<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum</p>\n",
+      "thoigian": "2020-04-29T18:40:10.338Z",
+      "iduser": 1,
+      "id": 5
+    },
+    {
+      "tieude": "Blog Fifth Post",
+      "image": "3.jpg",
+      "chitiet": "<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>\n\n<blockquote>\n<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur. In venenatis elit ac ultrices convallis. Duis est nisi, tincidunt ac urna sed, cursus blandit lectus. In ullamcorper sit amet ligula ut eleifend. Proin dictum tempor ligula, ac feugiat metus. Sed finibus tortor eu scelerisque scelerisque.</p>\n</blockquote>\n\n<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum</p>\n",
+      "thoigian": "2020-04-29T18:40:48.128Z",
+      "iduser": 1,
+      "id": 6
+    },
+    {
+      "tieude": "Blog Second Post",
+      "image": "1.jpg",
+      "chitiet": "<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>\n\n<blockquote>\n<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur. In venenatis elit ac ultrices convallis. Duis est nisi, tincidunt ac urna sed, cursus blandit lectus. In ullamcorper sit amet ligula ut eleifend. Proin dictum tempor ligula, ac feugiat metus. Sed finibus tortor eu scelerisque scelerisque.</p>\n</blockquote>\n\n<p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum in labore rerum</p>\n",
+      "thoigian": "2020-04-29T18:41:53.771Z",
+      "iduser": 1,
+      "id": 7
+    }
+  ],
+  "binhluan": [
+    {
+      "id": 1,
+      "noidung": "hola",
+      "idsp": 1,
+      "idtk": 1,
+      "thoigian": "26-04-2020"
+    }
+  ],
+  "slide": [
+    {
+      "image": "1.jpg",
+      "mota": "<h5>Sale Offer <span>-20% Off</span> This Week</h5>\n<h2>Chamcham Galaxy S9 | S9+</h2>\n <h3>Starting at <span>$1209.00</span></h3>",
+      "trangthai": 0,
+      "id": 2
+    },
+    {
+      "image": "2.jpg",
+      "mota": "<h5>Sale Offer <span>Black Friday</span> This Week</h5>\n <h2>Work Desk Surface Studio 2018</h2>\n<h3>Starting at <span>$824.00</span></h3>",
+      "trangthai": 0,
+      "id": 3
+    },
+    {
+      "image": "3.jpg",
+      "mota": "<h5>Sale Offer <span>-10% Off</span> This Week</h5>\n<h2>Phantom 4 Pro+ Obsidian</h2>\n <h3>Starting at <span>$1849.00</span></h3>",
+      "trangthai": 0,
+      "id": 4
+    }
+  ],
+  "congty": [
+    {
+      "id": 1,
+      "tencty": "Sad Eyes",
+      "logo": "",
+      "sdt": "0387210034",
+      "email": "lequangngocan@gmail.com",
+      "diachi": "Hà Nội"
+    }
+  ],
+  "quangcao": [
+    {
+      "image": "1_1.jpg",
+      "mota": "<p>Quảng c&aacute;o 1</p>\n",
+      "id": 2
+    },
+    {
+      "image": "1_2.jpg",
+      "mota": "<p>Quảng c&aacute;o 2</p>\n",
+      "id": 3
+    },
+    {
+      "image": "1_3.jpg",
+      "mota": "<p>quảng c&aacute;o 3</p>\n",
+      "id": 4
+    },
+    {
+      "image": "1_4.jpg",
+      "mota": "<p>quảng c&aacute;o 4</p>\n",
+      "id": 5
+    },
+    {
+      "image": "1_5.jpg",
+      "mota": "<p>quảng c&aacute;o 5</p>\n",
+      "id": 6
+    },
+    {
+      "image": "4_1.jpg",
+      "mota": "<p>quảng c&aacute;o 6</p>\n",
+      "id": 7
+    }
+  ],
+  "donhang": [
+    {
+      "id": 1,
+      "iduser": 1,
+      "idsp": 1,
+      "trangthai": 0,
+      "thoigian": ""
+    }
+  ],
+  "lienhe": [
+    {
+      "hoten": "Lê Quang Ngọc An",
+      "tieude": "Test contact",
+      "noidung": "<p>ơpppppppppppppppp</p>\n",
+      "email": "lequangngocan@gmail.com",
+      "thoigian": "2020-04-30T09:03:56.205Z",
+      "id": 3
+    },
+    {
+      "hoten": "Lê Quang Ngọc Ann",
+      "tieude": "Test contact 2",
+      "noidung": "<p>Hello</p>\n",
+      "email": "lequangngocan2@gmail.com",
+      "thoigian": "2020-04-30T09:04:25.941Z",
+      "id": 4
+    }
+  ]
+}

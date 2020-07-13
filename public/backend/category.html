@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<table cellpadding="0" cellspacing="0" width="100%" border="1px" class="sTable mTable myTable" id="show">			
+			<thead>
+				<tr>
+					<td style="width:60px;">Mã số</td>
+					<td>Tên</td>
+				</tr>
+			</thead>
+			
+ 			
+			
+			<tbody class="list_item">
+		    </tbody>
+		    
+		</table>
+		<script type="text/javascript">
+			var url = "http://localhost:3000/danhmuc";
+			console.log(url);
+			fetch(url, {
+            method: "GET"
+        	}).then(function(res) {
+            	return res.json(); // chuyển chuỗi nhận được thành đối tượng json
+       		}).then(function(data) {
+            // các lệnh xử lý cho dữ liệu ở đây: các công việc hiển thị.
+            	console.log(data);
+            	var bang = document.querySelector('#show');
+	            for (i = 0; i < data.length; i++) {
+	                var obj = data[i];
+	                // Tạo thêm 1 dòng ở cuối bảng bằng cú pháp sau
+	                let dong_moi = bang.insertRow(-1);
+
+	                // Thêm ô thứ nhất, chỉ số thứ tự là 0, ô này dùng để hiển thị ID
+	                let o1 = dong_moi.insertCell(0);
+	                o1.innerText = obj.id;
+
+	                // Thêm ô thứ bốn, chỉ số thứ tự là 3, ô này dùng để hiển thị email
+	                let o4 = dong_moi.insertCell(1);
+	                o4.innerText = obj.tendm;
+
+	            }
+			})
+		</script>
+</body>
+</html>

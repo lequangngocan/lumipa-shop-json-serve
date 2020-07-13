@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Quản lí tin tức</title>
+
+<meta name="robots" content="noindex, nofollow" />
+
+<link rel="shortcut icon" href="images/icon.png" type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" href="crown/css/main.css" />
+<link rel="stylesheet" type="text/css" href="css/css.css" media="screen" />
+
+
+</head>
+
+<body>
+	
+	<!-- Left side content -->
+	<div id="left_content">
+		<div id="leftSide" style="padding-top:30px;">
+		
+		    <!-- Account panel -->
+			
+<div class="sideProfile">
+	<a href="#" title="" class="profileFace"><img width="40" src="images/user.png" /></a>
+	<span>Xin chào: <strong> admin
+							<span style="text-transform:uppercase">Lê Quang Ngọc An!</strong></span>
+	
+	<div class="clear"></div>
+</div>
+<div class="sidebarSep"></div>		    
+		    <!-- Left navigation -->
+			
+<ul id="menu" class="nav">
+
+			<li class="home">
+		
+			<a href="home.html">
+				<span>Bảng điều khiển</span>
+				<strong></strong>
+			</a>
+			
+						
+		</li>
+			<li class="product">
+		
+			<a href="danhmuc.html">
+				<span>Quản lý danh mục </span>
+			</a>
+						
+		</li>
+		<li class="product">
+		
+			<a href="sanpham.html">
+				<span>Quản lý sản phẩm</span>
+			</a>
+						
+		</li>
+			<li class="account">
+		
+			<a href="taikhoan.html"  >
+				<span>Quản lý tài khoản</span>
+				
+			</a>
+						
+		</li>
+		<li class="product">
+		
+			<a href="tintuc.html"  class="active" id="current" >
+				<span>Quản lý tin tức</span>
+				
+			</a>
+						
+		</li>
+		<li class="content">
+		
+			<a href="binhluan.html" >
+				<span>Quản lý bình luận</span>
+			</a>
+		</li>
+		<li class="content">
+		
+			<a href="donhang.html" >
+				<span>Quản lý đơn hàng</span>
+			</a>
+		</li>
+			<li class="content">
+		
+			<a href="slide.html" >
+				<span>Quản lý slide</span>
+			</a>
+		</li>
+		<li class="content">
+			
+				<a href="quangcao.html" >
+					<span>Quản lý quảng cáo</span>
+				</a>
+		</li>
+		<li class="content">
+			
+				<a href="lienhe.html" >
+					<span>Quản lý liên hệ</span>
+				</a>
+		</li>
+		<li class="content">
+			
+				<a href="setting.html" >
+					<span>Quản lý setting</span>
+				</a>
+		</li>
+</ul>
+			
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	
+	<!-- Right side -->
+	<div id="rightSide">
+	
+	    <!-- Account panel top -->
+		
+<div class="topNav">
+	<div class="wrapper">
+		
+		<div class="userNav">
+			<ul>
+				<li><a href="../index.php" target="_blank">
+					<img style="margin-top:7px;" src="images/icons/light/home.png" />
+					<span>Trang chủ</span>
+				</a></li>
+				
+				<!-- Logout -->
+				
+				
+			</ul>
+		</div>
+		
+		<div class="clear"></div>
+	</div>
+</div>
+		
+	    <!-- Main content -->
+		
+<!-- Title area -->
+<div class="titleArea">
+	<div class="wrapper">
+		<div class="pageTitle">
+			<h5>Tin tức</h5>
+			<span>Trang quản lí tin tức</span>
+		</div>
+		<div class="horControlB menu_action">
+			<ul>
+				<li><a href="themtintuc.html">
+					<img src="images/icons/control/16/add.png" />
+					<span>Thêm mới</span>
+				</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<div class="line"></div>
+<!-- Message -->
+<!-- Main content wrapper -->
+<!-- Main content wrapper -->
+<div class="wrapper" id="main_product">
+	<div class="widget">
+	
+		<div class="title">
+			<h6>
+				Danh sách tin tức			</h6>
+		 	<div class="num f12">Số lượng: <b>0</b></div>
+		</div>
+		
+		<table cellpadding="0" cellspacing="0" width="100%" class="sTable mTable myTable" id="show">
+			
+			<thead class="filter"><tr><td colspan="9">
+				<form class="list_filter form" action="index.php/admin/product.html" method="get">
+					<table cellpadding="0" cellspacing="0" width="80%"><tbody>
+					
+						<tr>
+							<td class="label" style="width:40px;"><label for="filter_id">Tên</label></td>
+							<td class="item" style="width:155px;" ><input name="name" value="" id="filter_iname" type="text" style="width:155px;" /></td>
+							<td style='width:150px;'>
+							<input type="submit" class="button blueB" value="Lọc" />
+							<input type="reset" class="basic" value="Reset" onclick="window.location.href = 'index.php/admin/product.html'; ">
+							</td>
+							
+						</tr>
+					</tbody></table>
+				</form>
+			</td></tr></thead>
+			
+			<thead>
+				<tr>
+					<td style="width:60px;">Mã số</td>
+					<td>Tiêu đề</td>
+					<td>Image</td>
+					<td>Chi tiết</td>
+					<td>Ngày đăng</td>
+					<td>Tác giả</td>
+					<td style="width:120px;">Hành động</td>
+				</tr>
+			</thead>
+			
+			<tbody class="list_item"></tbody>
+			
+		</table>
+	</div>
+	
+</div>		<div class="clear mt30"></div>
+		
+	    <!-- Footer -->
+	    <div id="footer">
+	    		        <div class="wrapper">
+
+	        	<div>Bản quyền © 2019 Lê Quang Ngọc An</div>
+	        </div>
+	     </div>
+	</div>
+	<div class="clear"></div>
+	<script type="text/javascript">
+			var url = "http://localhost:3000/tintuc";
+			console.log(url);
+			fetch(url, {
+            method: "GET"
+        	}).then(function(res) {
+            	return res.json(); // chuyển chuỗi nhận được thành đối tượng json
+       		}).then(function(data) {
+            // các lệnh xử lý cho dữ liệu ở đây: các công việc hiển thị.
+            	console.log(data);
+            	var bang = document.querySelector('#show');
+	            for (i = 0; i < data.length; i++) {
+	                var obj = data[i];
+	                // Tạo thêm 1 dòng ở cuối bảng bằng cú pháp sau
+	                let dong_moi = bang.insertRow(-1);
+
+	                // Thêm ô thứ nhất, chỉ số thứ tự là 0, ô này dùng để hiển thị ID
+	                let o1 = dong_moi.insertCell(0);
+	                o1.innerText = obj.id;
+
+	                // Thêm ô thứ hai, chỉ số thứ tự là 1, ô này dùng để hiển thị tiêu đề
+	                let o2 = dong_moi.insertCell(1);
+	                o2.innerText = obj.tieude;
+
+	                //Thêm ô thứ ba, chỉ số thứ tự là 2, ô này dùng để hiển thị ảnh tin tức
+	                let o3 = dong_moi.insertCell(2);
+	                o3.innerHTML = '<div class="image_thumb"><img src="../frontend/images/blog-banner/'+obj.image+'" height="50"><div class="clear"></div></div>';
+
+	                //Thêm ô thứ tư, chỉ số thứ tự là 3, ô này dùng để hiển thị chi tiết
+	                let o4 = dong_moi.insertCell(3);
+	                o4.innerHTML = "<details><summary>Chi tiết tin tức</summary>"+obj.chitiet+" </details>";
+
+	                //Thêm ô thứ năm, chỉ số thứ tự là 4, ô này dùng để hiển thị ngày đăng
+	                let o5 = dong_moi.insertCell(4);
+	                o5.innerText = obj.thoigian;
+
+	                //Thêm ô thứ sáu, chỉ số thứ tự là 5, ô này dùng để hiển thị tác giả
+	                let o6 = dong_moi.insertCell(5);
+	                o6.innerText = obj.iduser;
+
+	                // Thêm ô thứ bảy, chỉ số thứ tự là 6, ô này dùng để tao tác với tin tức
+	                let o7 = dong_moi.insertCell(6);
+	                o7.innerHTML = '<a href="suatintuc.html?idtt='+obj.id+'" title="Chỉnh sửa" class="tipS"><img src="images/icons/color/edit.png" /></a>	<a href="#" onclick="xoatt('+obj.id+')" title="Xóa" class="tipS verify_action" ><img src="images/icons/color/delete.png" /></a>';
+	            }
+			})
+			function xoatt(id){
+				var url_xoa = 'http://localhost:3000/tintuc/'+id;
+				var xacNhan = confirm("Bạn có chắc muốn xóa bài viết?");
+				if(xacNhan){
+					fetch(url_xoa, {
+						method: "DELETE"
+					}).then(function(res){
+						return res.json; //trả về dữ liệu dạng json
+					}).then(function(data){
+						location.reload();
+					});
+				}
+			}
+		</script>
+</body>
+</html>
