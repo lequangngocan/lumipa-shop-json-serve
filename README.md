@@ -1,0 +1,1 @@
+# lumipa-shop-json-serve
